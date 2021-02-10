@@ -1,6 +1,5 @@
 const Enemy = require('../lib/Enemy.js');
 const Potion = require('../lib/Potion.js');
-const { TestScheduler } = require('jest');
 
 jest.mock('../lib/Potion.js');
 
